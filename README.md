@@ -1,4 +1,4 @@
-HI
+Hi
 
 <!---
 restinbeat/restinbeat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
