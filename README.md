@@ -1,5 +1,5 @@
 ## ~~~ nuwave ~~~
-### Hello, Stranger
+### Hello, Stranger !
 
 [![NOMAD's github stats](https://github-readme-stats.vercel.app/api?username=restinbeat)](https://github.com/restinbeat/restinbeat)
 
