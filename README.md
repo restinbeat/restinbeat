@@ -7,7 +7,7 @@ Hello🤘🏻! welcome to my GitHub Page.
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/kolin-352A71?style=for-the-badge&logo=kotlin&logoColor=#white" />&nbsp
+    <img src="https://img.shields.io/badge/kotlin-352A71?style=for-the-badge&logo=kotlin&logoColor=#white" />&nbsp
     <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />&nbsp
 </div>
 <div align="center">
