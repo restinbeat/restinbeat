@@ -25,6 +25,9 @@ Hello🤘🏻! welcome to my GitHub Page.
     <img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp
 </div>
+<div align="center">
+    <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=JUnit5&logoColor=white" />&nbsp
+</div>
 <br>
 <div align="center"> 
     <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
