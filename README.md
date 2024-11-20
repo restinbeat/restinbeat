@@ -1,5 +1,5 @@
 <p align=center>
-Hello🤘🏻! welcome to my GitHub Page. 
+🤘🏻 계속 계속 계속 공부하자 🤘🏻
 </p>
 
 [//]: # "[![NOMAD's github stats](https://github-readme-stats.vercel.app/api?username=restinbeat)](https://github.com/restinbeat/restinbeat)"
