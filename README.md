@@ -1,8 +1,8 @@
-## 🤘🏻 계속 계속 계속 공부하자 🤘🏻
+### 🔥 Don't slack off, keep studying hard 🔥
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frestinbeat&count_bg=%2379C83D&title_bg=%23555555&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%80++Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-#### Hi, I'm nomad 👋🏻! 
+#### Hi, I'm nomad 🤘🏻! 
 
 I am a developer from Korea interested in backend development.
 <br><br>
